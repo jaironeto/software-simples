@@ -20,3 +20,4 @@ Estreitamento<br/>
 Generic Functions + Constraints<br/>
 Optional Parameters<br/>
 Default Parameters<br/>
+TsConfig<br/>
