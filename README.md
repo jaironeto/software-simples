@@ -10,3 +10,13 @@ Uso ativo do conceito de Hoisting, Recursividade, Código Assíncrono, Tratament
 Sequelize API <br/>
 Console (built-in) <br/>
 Process (built-in) <br/>
+
+**Destaque TypeScript** <br/>
+Explicit Type<br/>
+Return Type<br/>
+Union Type<br/>
+Literal Type<br/>
+Estreitamento<br/>
+Generic Functions + Constraints<br/>
+Optional Parameters<br/>
+Default Parameters<br/>
